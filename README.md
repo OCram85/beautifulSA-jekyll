@@ -1,3 +1,8 @@
+# About Beautiful SA Jekyll
+
+> This repository reflects Deans Jekyll template [Beautiful Jekyll](https://beautifuljekyll.com/plans/) as `Standalone` version. This means it contains external CDN resources like bootstrap, jQuery or Font-Awesome. The intension is to help users
+with the hosting in [GDPR](https://gdpr.eu/) affected countries.
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
